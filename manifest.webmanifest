@@ -1,0 +1,28 @@
+{
+  "name": "Pollo POS",
+  "short_name": "PolloPOS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e8",
+  "theme_color": "#bf360c",
+  "lang": "es-MX",
+  "description": "Punto de venta avícola con soporte PWA, inventario y sincronización con Apps Script.",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
