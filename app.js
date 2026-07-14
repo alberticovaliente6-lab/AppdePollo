@@ -1,4 +1,4 @@
-const APP_SCRIPT_URL = "";
+const APP_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwyTlQDtXI9xA3-j3xvkXHv7tHXKOhathOvHPx5mTRExUGdCl6BkHIMAaUZXDFCgGJT-w/exec";
 const STORAGE_KEY = "pollo-pos-state-v1";
 const DEMO_SESSION = { id: "demo-admin", name: "Demo", role: "admin" };
 
